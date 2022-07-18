@@ -1,0 +1,11 @@
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\bin\Debug\maskedtextbox_picturebox.exe.config
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\bin\Debug\maskedtextbox_picturebox.exe
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\bin\Debug\maskedtextbox_picturebox.pdb
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.csproj.AssemblyReference.cache
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.Form1.resources
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.Properties.Resources.resources
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.csproj.GenerateResource.cache
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.csproj.CoreCompileInputs.cache
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.exe
+C:\Users\Xakar\source\repos\maskedtextbox_picturebox\maskedtextbox_picturebox\obj\Debug\maskedtextbox_picturebox.pdb
